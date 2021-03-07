@@ -66,4 +66,4 @@ const run = () => {
 };
 
 run();
-setInterval(run, 24*60*60*1000);
+setInterval(run, 60*60*1000);
